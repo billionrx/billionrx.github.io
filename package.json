@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
   "main": "webpack.config.js",
-  "repository": "https://github.com/codehunter140/codehunter140.github.io",
+  "repository": "https://github.com/codehunter140/codehunter140.github.io/dist",
   "author": "Mark Macneil",
   "license": "MIT",
   "scripts": {
