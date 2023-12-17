@@ -121,6 +121,17 @@
           "href": "https://apps.apple.com/us/app/tapp/id1501205634"
         }
       ]
+    },
+    {
+      "image": "images/projects/floodup.png",
+      "title": "FloodUp: Community-Based Flood Reporting App",
+      "bodyText": "FloodUp is an innovative mobile application designed to empower communities in reporting and responding to flood events. This app serves as a crucial tool for real-time data collection, enabling users to upload photographs and share reports of flood incidents in their area. FloodUp's user-friendly interface simplifies the process of reporting, contributing to a collaborative platform that aids in the effective management of natural disasters. By leveraging community input, FloodUp plays a vital role in enhancing local resilience and preparedness, providing valuable insights for both residents and authorities. This project showcases my skills in developing practical, user-centric solutions that address critical environmental challenges.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://play.google.com/store/apps/details?id=edu.ub.floodup&hl=en_US&gl=US"
+        }
+      ]
     }
   ]
 }
