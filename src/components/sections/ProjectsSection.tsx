@@ -187,7 +187,7 @@ export default function ProjectsSection() {
                   <div className="flex gap-3">
                     {project.liveUrl && (
                       <Button href={project.liveUrl} size="sm" isExternal>
-                        See it Live
+                        Open
                       </Button>
                     )}
                     {project.sourceUrl && (
@@ -344,7 +344,7 @@ export default function ProjectsSection() {
                   <div className="flex gap-3">
                     {project.liveUrl && (
                       <Button href={project.liveUrl} size="sm" isExternal>
-                        Download App
+                        Open
                       </Button>
                     )}
                     {project.sourceUrl && (
